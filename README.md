@@ -10,11 +10,11 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=F71A1A&lines=Welcome+to+my+profile.;+Please+feel+free+to+clone%2Ffork+;+projects%2C+raise+issues+and+submit+PRs++" alt="tYPING SVG"></a>
 </div>
-- 🔭 I’m currently working on buisness app project
-- 🌱 I’m currently learning node
-- 💬 Ask me about development
-- 📫 How to reach me: **vyask519@gmail.com**
-- ⚡ Fun fact: The hobby that I could never give up is coding
+- 🔭 I’m currently working on buisness app project <br>
+- 🌱 I’m currently learning node  <br>
+- 💬 Ask me about development  <br>
+- 📫 How to reach me: **vyask519@gmail.com**  <br>
+- ⚡ Fun fact: The hobby that I could never give up is coding  <br>
         
 ![Visitor Count](https://profile-counter.glitch.me/kuldeepvyass/count.svg)
  <hr>
