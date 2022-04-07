@@ -16,8 +16,7 @@
 - 📫 How to reach me: **vyask519@gmail.com**
 - ⚡ Fun fact: The hobby that I could never give up is coding
         
-![Visitor Count](https : //profile-counter.glitch.me/kuldeepvyass/count.svg)
-```
+![Visitor Count](https://profile-counter.glitch.me/kuldeepvyass/count.svg)
  <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
