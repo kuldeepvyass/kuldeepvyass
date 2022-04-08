@@ -20,13 +20,25 @@
         
 ![Visitor Count](https://profile-counter.glitch.me/kuldeepvyass/count.svg)
  <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kdvyass" target="blank"><img align="center" src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/twitter.svg" alt="kdvyass" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kuldeep-vyas-0367311b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/linked-in-alt.svg" alt="navin-kumar-5748721a7" height="30" width="40" /></a>
-<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="navinkti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/hackerrank.svg" alt="@kd" height="30" width="40" /></a>
-</p>
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/kuldeepvyass">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kuldeepvyass?style=social&label=@kuldeepvyass">
+</a>
+
+<a href="https://twitter.com/kdvyass">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@kdvyass">
+</a>
+<a href="https://www.linkedin.com/in/kuldeep-vyas-0367311b5/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kuldeepvyass&color=0A66C2&style=flat&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/__kd_vyas_/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@__kd_vyas_&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="mailto:vyask519@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=vyask519@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+</br>
  <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
