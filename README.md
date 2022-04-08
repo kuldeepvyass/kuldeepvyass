@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://twitter.com/kdvyass">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@kdvyass">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/kdvyass?style=social&label=@kdvyass">
 </a>
 <a href="https://www.linkedin.com/in/kuldeep-vyas-0367311b5/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kuldeepvyass&color=0A66C2&style=flat&logo=linkedin" />
