@@ -65,7 +65,6 @@
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br>   
        <br>
-        
         <h2>:smile: A random joke!🤣</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
