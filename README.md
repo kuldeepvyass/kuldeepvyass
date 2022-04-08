@@ -54,7 +54,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
  <br>
-  </p>
+ 
  [![kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeepvyass&theme=react-dark)](https://github.com/kuldeepvyass/github-readme-activity-graph) 
    <hr>   
 <div align="center">
