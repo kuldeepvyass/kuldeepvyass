@@ -51,7 +51,7 @@
         <br>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kuldeepvyass" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
  [![kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeepvyass&theme=react-dark)](https://github.com/kuldeepvyass/github-readme-activity-graph) 
