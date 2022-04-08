@@ -17,6 +17,7 @@
 - ⚡ Fun fact: The hobby that I could never give up is coding  <br> <br>
    
 <p align="left">:round_pushpin: Profile visitors</p>
+        
 ![Visitor Count](https://profile-counter.glitch.me/kuldeepvyass/count.svg)
  <hr>
 <h3 align="left">Connect with me:</h3>
