@@ -88,6 +88,7 @@
  [![kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeepvyass&theme=react-dark)](https://github.com/kuldeepvyass/github-readme-activity-graph) 
         </div>
    <hr>   
+        <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kuldeepvyass/snakegame-readme/main/github-contribution-grid-snake.svg">
 <div align="center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepvyass&show_icons=true&locale=en" alt="kd" /></p>
     <a href="https://git.io/typing-svg">
