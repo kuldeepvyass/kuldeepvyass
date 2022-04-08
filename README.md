@@ -69,7 +69,16 @@
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kuldeepvyass" /></p>
-
+<h2>:books: My personal portfolio</h2>
+<a href="https://github.com/">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeepvyass&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a>
+</br>
+<a href="https://portfolio-kuldeepvyass.vercel.app/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
+        
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
  <br>
