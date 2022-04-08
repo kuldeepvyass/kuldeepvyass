@@ -31,7 +31,9 @@
 <a href="https://www.linkedin.com/in/kuldeep-vyas-0367311b5/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kuldeepvyass&color=0A66C2&style=flat&logo=linkedin" />
 </a>
-
+<a href="https://t.me/Kuldeep_vyas">
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@Kuldeep_vyas&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+</a>
 <a href="https://www.instagram.com/__kd_vyas_/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@__kd_vyas_&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
