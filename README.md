@@ -56,3 +56,9 @@
 
  [![kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeepvyass&theme=react-dark)](https://github.com/kuldeepvyass/github-readme-activity-graph) 
    <hr>   
+<div align="center">
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepvyass&show_icons=true&locale=en" alt="kd" /></p>
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
