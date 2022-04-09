@@ -76,7 +76,7 @@
 </br>
         
         
-<h2>🤣 A Random Joke!</h2>
+<h2>🤣:lol: A Random Joke!</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kd" /></p>
