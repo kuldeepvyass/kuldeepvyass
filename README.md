@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kuldeep Vyass</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=F71A1A&lines=Welcome+to+my+profile+fellow+developers.;+Please+feel+free+to+clone%2Ffork+;+projects%2C+raise+issues+and+submit+PRs++" alt="tYPING SVG"></a>
+    <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=F71A1A&lines=Welcome+to+my+profile+fellow+developers.;+Please+feel+free+to+clone%2Ffork+repository+;+projects%2C+raise+issues+and+submit+PRs++" alt="tYPING SVG"></a>
 </div>
 - 🔭 I’m currently working on buisness app project <br>
 - 🌱 I’m currently learning node  <br>
