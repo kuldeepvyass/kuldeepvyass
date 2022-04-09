@@ -78,7 +78,7 @@
         <h2>:smile: A random joke!🤣</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kd" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kd" /></p>
 
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
