@@ -74,8 +74,8 @@
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>        
-       <br>
-<h2>:laugh: A Random Joke!🤣</h2>
+ <br>
+<h2>:laugh: A Random Joke!</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kd" /></p>
