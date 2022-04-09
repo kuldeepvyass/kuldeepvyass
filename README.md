@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on buisness app project <br>
 - 🌱 I’m currently learning node  <br>
 - 💬 Ask me about development  <br>
-- 📫 How to reach me: vyask519@gmail.com <br>
+- 📫 How to reach me: mailto:vyask519@gmail.com <br>
 - ⚡ Fun fact: The hobby that I could never give up is coding  <br> <br>
    
 <p align="left">:round_pushpin: Profile visitors</p>
