@@ -83,12 +83,12 @@
 <p align="center">
   <a>
     <img height="120" width="140" src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepvyass&theme=dark&hide_border=true" alt="kd"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepvyass&theme=tokyonight&hide_border=true" alt="kd"/>
     <img height="120" width="140" src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/right.png">
   </a>
 </p>
         
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuldeepvyass&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
 
  <br>
  
