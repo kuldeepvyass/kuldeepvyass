@@ -73,8 +73,7 @@
 <a href="https://portfolio-kuldeepvyass.vercel.app/">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
-</br></br>        
- <br>
+</br></br>        <br>
         
 <h2>:laugh: A Random Joke!</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
