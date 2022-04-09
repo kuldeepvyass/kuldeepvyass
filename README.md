@@ -51,7 +51,7 @@
 <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 
 
-</br></br>
+</br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <code> <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
