@@ -19,7 +19,7 @@
 <p align="left">:round_pushpin: Profile visitors</p>
         
 ![Visitor Count](https://profile-counter.glitch.me/kuldeepvyass/count.svg)
- <hr>
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/kuldeepvyass">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kuldeepvyass?style=social&label=@kuldeepvyass">
@@ -88,7 +88,7 @@
  
  [![kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeepvyass&theme=react-dark)](https://github.com/kuldeepvyass/github-readme-activity-graph) 
         </div>
-   <hr>   
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
         <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kuldeepvyass/snakegame-readme/main/github-contribution-grid-snake.svg">
 <div align="center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepvyass&show_icons=true&locale=en" alt="kd" /></p>
