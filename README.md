@@ -75,7 +75,7 @@
 </a>
 </br></br>        
        <br>
-        <h1><img src="https://raw.githubusercontent.com/kuldeepvyass/images-readme/main/fb-laugh.gif"> A random joke!</h1>
+        <h2>:Laugh: A random joke!🤣</h2>
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepvyass&show_icons=true&locale=en&layout=compact" alt="kd" /></p>
